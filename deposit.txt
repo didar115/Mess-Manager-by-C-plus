@@ -1,0 +1,7 @@
+1 Nandan 1000
+2 Didar 1500
+3 Seba 1500
+4 Ujjal 1600
+5 Rahul 2000
+6 Arun 1500
+7 Sourov 1500

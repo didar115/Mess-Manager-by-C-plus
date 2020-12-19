@@ -1,0 +1,13 @@
+1.1st you need to manually deposit the money into "deposit.txt" file.
+
+2.you need to upgrade dailly the bazar cost.
+
+3.for home/current/net you need to manually update the cost from 
+"home.txt"/"current.txt"/"net.txt" file.
+
+4.you need to keep update the dailly meal by manually.
+
+
+
+//** IN THE CODE SEGMENT **\\
+
